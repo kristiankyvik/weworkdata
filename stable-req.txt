@@ -1,0 +1,9 @@
+
+cryptography==1.0.2
+feedparser==5.2.1
+Flask==0.10.1
+Flask-Cors==2.1.2
+requests==2.9.1
+schedule==0.3.2
+SQLAlchemy==0.8.2
+stripe==1.28.0
